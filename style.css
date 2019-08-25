@@ -19,6 +19,10 @@ nav a {
   background-color: grey;
 }
 
+figcaption {
+  
+}
+
 #details {
   background: red;
   text-align: center;
