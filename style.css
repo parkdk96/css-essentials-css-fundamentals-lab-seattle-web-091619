@@ -9,5 +9,7 @@ header {
 }
 
 #details {
-  background: red
+  background: red;
+  text-align: center;
+  width: 25%
 }
