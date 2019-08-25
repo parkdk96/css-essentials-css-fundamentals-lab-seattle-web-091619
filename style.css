@@ -8,6 +8,10 @@ header {
   margin: auto
 }
 
+img {
+  margin: auto
+}
+
 #details {
   background: red;
   text-align: center;
